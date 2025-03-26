@@ -15,14 +15,6 @@
       "maintainer": true
     }
   ],
-  "dependencies": [
-    {
-      "owner": "esp32async",
-      "name": "ESPAsyncWebServer",
-      "version": "^3.7.3",
-      "platforms": ["espressif8266", "espressif32", "raspberrypi"]
-    }
-  ],
   "version": "3.1.7",
   "frameworks": "arduino",
   "platforms": ["espressif8266", "espressif32", "raspberrypi"]
